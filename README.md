@@ -30,3 +30,6 @@ If you would like to add an event to the list, please leave a comment.
 # Timeline
 
 2016-02-08: Decred mainnet launch. Decred's blockchain goes live and the first block is mined.
+
+2018-10-16: Politeia goes live and the first proposal is submitted.
+2018-11-05: Voting ends on the first round of proposals, three out of four are approved.
